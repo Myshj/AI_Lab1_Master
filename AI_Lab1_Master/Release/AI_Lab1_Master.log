@@ -1,0 +1,13 @@
+﻿  Hypersphere.cpp
+  Interval.cpp
+  Main.cpp
+  Particle.cpp
+  ParticleSwarmOptimization.cpp
+  TestFunction.cpp
+  Generating code
+  461 of 464 functions (99.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AI_Lab1_Master.vcxproj -> J:\AI_Lab1_Master\Release\AI_Lab1_Master.exe
+  AI_Lab1_Master.vcxproj -> J:\AI_Lab1_Master\Release\AI_Lab1_Master.pdb (Full PDB)
